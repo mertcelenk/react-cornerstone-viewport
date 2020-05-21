@@ -4,7 +4,7 @@
   "description": "Cornerstone medical image viewport component for React",
   "author": "Cornerstone Contributors",
   "license": "MIT",
-  "repository": "cornerstonejs/react-cornerstone-viewport",
+  "repository": "mertcelenk/react-cornerstone-viewport",
   "main": "dist/index.js",
   "browser": "dist/index.umd.js",
   "module": "dist/index.es.js",
